@@ -4,7 +4,7 @@
   <ThingDef ParentName="ApparelMakeableBase">
     <defName>Apparel_Trousers</defName>
     <label>trousers</label>
-    <description>Another simple set of pants.</description>
+    <description>A simple set of trousers.</description>
     <recipeMaker>
       <researchPrerequisite>ComplexClothing</researchPrerequisite>
     </recipeMaker>
