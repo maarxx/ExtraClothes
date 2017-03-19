@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+  <name>ExtraClothes</name>
+  <author>Maarx</author>
+  <url>https://github.com/maarxx/ExtraClothes/</url>
+  <targetVersion>0.16.1393</targetVersion>
+  <description>Provides additional duplicate Clothing items, identical to Vanilla, intended for managing Devilstrand.</description>
+</ModMetaData>
