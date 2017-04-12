@@ -2,6 +2,8 @@
 
 This is a mod for the game RimWorld by Ludeon Studios.
 
+It provides additional duplicate Clothing items, identical to Vanilla, intended for managing Devilstrand.
+
 # Table of Contents
 
 * [Introduction and Explanation](#introduction-and-explanation)
