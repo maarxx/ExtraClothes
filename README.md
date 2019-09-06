@@ -4,6 +4,10 @@ This is a mod for the game RimWorld by Ludeon Studios.
 
 It provides additional duplicate Clothing items, identical to Vanilla, intended for managing Devilstrand.
 
+# DEPRECATED
+
+This was primarily needed for tailor work bill "Do Until You Have X" for Devilstrand. With the work bill new feature option "Only allowed ingredients", this mod is no longer necessary.
+
 # Table of Contents
 
 * [Introduction and Explanation](#introduction-and-explanation)
